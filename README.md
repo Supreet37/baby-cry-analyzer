@@ -12,7 +12,7 @@ The app runs **entirely in simulation mode by default** — no backend needed. I
 
 | Landing Page | Analysis Dashboard |
 |---|---|
-| ![Landing](./public/screenshots/landing.png) | ![Dashboard](./public/screenshots/dashboard.png) |
+| ![Landing](home1.png) | ![Dashboard](dashboard.png) |
 
 ---
 
