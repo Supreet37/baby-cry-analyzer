@@ -312,6 +312,9 @@ Both deploy the static `/dist` folder with zero additional config needed.
 
 ## 🤝 Contributing
 
+Got ideas? Found a bug? Couldn't sleep at 3am and decided to refactor instead of cry yourself? We welcome all of it.
+No contribution is too small. Typo fixes, UI tweaks, a strongly worded comment about variable naming — all valid.
+
 1. Fork the repository
 2. Create a feature branch
 
@@ -333,8 +336,6 @@ git push origin feature/your-feature-name
 
 ---
 
-Got ideas? Found a bug? Couldn't sleep at 3am and decided to refactor instead of cry yourself? We welcome all of it.
-No contribution is too small. Typo fixes, UI tweaks, a strongly worded comment about variable naming — all valid.
 
 ⚠️ Disclaimer
 Nurture is a parenting aid, not a replacement for an actual doctor, pediatrician, or that one auntie who claims she can tell what a baby wants just by looking at them. If your baby seems unwell, please consult a qualified medical professional — not an app, not Google, and definitely not a Reddit thread from 2014.
