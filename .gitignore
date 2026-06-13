@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+build/
+dist/
+coverage/
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+!.env.example
+
+# Python backend (if not uploading to GitHub)
+backend/__pycache__/
+backend/*.pyc
+backend/*.pkl
+backend/venv/
+backend/env/
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+#netlify
+.netlify
+
+# Misc
+coverage/
+.cache/
+.temp/
+tmp/
+
+# System files
+Desktop.ini
+ehthumbs.db
+
+.vercelignore
+
+vercel.json
+src.zip
