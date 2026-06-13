@@ -333,7 +333,15 @@ git push origin feature/your-feature-name
 
 ---
 
+Got ideas? Found a bug? Couldn't sleep at 3am and decided to refactor instead of cry yourself? We welcome all of it.
+No contribution is too small. Typo fixes, UI tweaks, a strongly worded comment about variable naming — all valid.
+
+⚠️ Disclaimer
+Nurture is a parenting aid, not a replacement for an actual doctor, pediatrician, or that one auntie who claims she can tell what a baby wants just by looking at them. If your baby seems unwell, please consult a qualified medical professional — not an app, not Google, and definitely not a Reddit thread from 2014.
+
+We analyze cries. We do not cure them. That's still on you. Sorry.
+
 
 <div align="center">
-  Made with 💚 for parents who need a little help at 3am.
+If this helped you survive parenthood, consider giving it a ⭐ — it won't make your baby sleep, but it'll make us feel better.
 </div>
