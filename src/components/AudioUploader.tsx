@@ -211,7 +211,7 @@ export default function AudioUploader({ onAudioReady, isAnalyzing }: AudioUpload
       </motion.div>
 
       {/* Sample Library */}
-      <div className="bg-[#F7F5F2] border border-[#EAE6E0] p-5 rounded-2xl" id="preloaded-samples-playground">
+      {/* <div className="bg-[#F7F5F2] border border-[#EAE6E0] p-5 rounded-2xl" id="preloaded-samples-playground">
         <div className="flex items-center gap-2 mb-1">
           <Sparkles className="w-4 h-4 text-[#D4833A]" />
           <h3 className="text-sm font-semibold text-[#1A1614]">Sample Library</h3>
@@ -258,7 +258,7 @@ export default function AudioUploader({ onAudioReady, isAnalyzing }: AudioUpload
             );
           })}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

@@ -43,6 +43,7 @@ export interface CryAnalysis {
 }
 
 export interface UserSession {
+  uid: string; 
   email: string;
   name: string;
   babies: BabyProfile[];

@@ -6,7 +6,6 @@ pnpm-lock.yaml
 
 # Build outputs
 build/
-dist/
 coverage/
 .vite/
 
@@ -60,3 +59,11 @@ ehthumbs.db
 
 vercel.json
 src.zip
+
+# Backend temp files
+backend/compress_model.py
+backend/re_save_model.py
+
+# Build
+dist/
+dist.zip
